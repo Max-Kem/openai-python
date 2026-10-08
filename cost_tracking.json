@@ -1,0 +1,32 @@
+[
+  {
+    "product_name": "Turtle Check Men Navy Blue Shirt",
+    "input_tokens": 8760,
+    "output_tokens": 278,
+    "cost_usd": 0.0014808
+  },
+  {
+    "product_name": "Peter England Men Party Blue Jeans",
+    "input_tokens": 8759,
+    "output_tokens": 260,
+    "cost_usd": 0.0014698499999999998
+  },
+  {
+    "product_name": "Titan Women Silver Watch",
+    "input_tokens": 8757,
+    "output_tokens": 277,
+    "cost_usd": 0.00147975
+  },
+  {
+    "product_name": "Manchester United Men Solid Black Track Pants",
+    "input_tokens": 8761,
+    "output_tokens": 281,
+    "cost_usd": 0.00148275
+  },
+  {
+    "product_name": "Puma Men Grey T-shirt",
+    "input_tokens": 8759,
+    "output_tokens": 286,
+    "cost_usd": 0.00148545
+  }
+]
